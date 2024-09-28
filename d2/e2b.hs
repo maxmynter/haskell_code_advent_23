@@ -1,3 +1,5 @@
+module Day2 where
+
 import Data.List.Split (splitOn)
 
 type ID = Int
